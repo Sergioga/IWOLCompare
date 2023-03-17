@@ -6819,7 +6819,7 @@
         "name": "中执",
         "FaBaoType": "jian_0",
         "Affix": [
-            65
+            3
         ],
         "TuJianType": 0,
         "ShopType": 99,
@@ -36189,7 +36189,7 @@
         "yaoZhi3": 0,
         "ShuaXin": 0,
         "wuDao": [
-            7,
+            9,
             3
         ]
     },
@@ -36876,6 +36876,47 @@
         "ShuaXin": 0,
         "wuDao": [
             8,
+            3
+        ]
+    },
+    "4559": {
+        "id": 4559,
+        "ItemIcon": 3003,
+        "maxNum": 1,
+        "name": "化一图",
+        "FaBaoType": "",
+        "Affix": [],
+        "TuJianType": 0,
+        "ShopType": 99,
+        "ItemFlag": [
+            5,
+            503,
+            5036,
+            52
+        ],
+        "WuWeiType": 0,
+        "ShuXingType": 0,
+        "type": 4,
+        "quality": 3,
+        "typePinJie": 1,
+        "StuTime": 480,
+        "seid": [
+            2
+        ],
+        "vagueType": 1,
+        "price": 480000,
+        "desc": "749.0",
+        "desc2": "千机子自创的阵道功法。",
+        "CanSale": 0,
+        "DanDu": 0,
+        "CanUse": 0,
+        "NPCCanUse": 0,
+        "yaoZhi1": 0,
+        "yaoZhi2": 0,
+        "yaoZhi3": 0,
+        "ShuaXin": 0,
+        "wuDao": [
+            10,
             3
         ]
     },
@@ -38229,7 +38270,7 @@
         "vagueType": 1,
         "price": 480000,
         "desc": "730.0",
-        "desc2": "古神教秘传地阶战斗类功法。",
+        "desc2": "古神教秘传天阶战斗类功法。",
         "CanSale": 0,
         "DanDu": 0,
         "CanUse": 0,
@@ -51174,9 +51215,9 @@
     },
     "7609": {
         "id": 7609,
-        "ItemIcon": 0,
+        "ItemIcon": 8043,
         "maxNum": 9999999,
-        "name": "暂无",
+        "name": "蟒牙",
         "FaBaoType": "",
         "Affix": [],
         "TuJianType": 0,
@@ -51294,9 +51335,9 @@
     },
     "7612": {
         "id": 7612,
-        "ItemIcon": 0,
+        "ItemIcon": 8052,
         "maxNum": 9999999,
-        "name": "暂无",
+        "name": "蟒骨",
         "FaBaoType": "",
         "Affix": [],
         "TuJianType": 0,
@@ -53495,7 +53536,7 @@
             806,
             811,
             812,
-            8065
+            8064
         ],
         "WuWeiType": 4,
         "ShuXingType": 51,
@@ -53533,7 +53574,7 @@
             806,
             811,
             812,
-            8061
+            8064
         ],
         "WuWeiType": 4,
         "ShuXingType": 51,
@@ -53609,7 +53650,7 @@
             806,
             811,
             812,
-            8065
+            8064
         ],
         "WuWeiType": 4,
         "ShuXingType": 51,
@@ -56235,7 +56276,8 @@
             8,
             803,
             8034,
-            811
+            811,
+            8131
         ],
         "WuWeiType": 4,
         "ShuXingType": 1,
@@ -56271,7 +56313,8 @@
             8,
             803,
             8031,
-            811
+            811,
+            8131
         ],
         "WuWeiType": 1,
         "ShuXingType": 1,
@@ -56307,7 +56350,8 @@
             8,
             803,
             8035,
-            811
+            811,
+            8131
         ],
         "WuWeiType": 5,
         "ShuXingType": 1,
@@ -56343,7 +56387,8 @@
             8,
             803,
             8035,
-            811
+            811,
+            8131
         ],
         "WuWeiType": 5,
         "ShuXingType": 2,
@@ -56379,7 +56424,8 @@
             8,
             803,
             8034,
-            811
+            811,
+            8134
         ],
         "WuWeiType": 4,
         "ShuXingType": 31,
@@ -56415,7 +56461,8 @@
             8,
             803,
             8035,
-            811
+            811,
+            8134
         ],
         "WuWeiType": 5,
         "ShuXingType": 31,
@@ -56451,7 +56498,8 @@
             8,
             803,
             8035,
-            811
+            811,
+            8134
         ],
         "WuWeiType": 5,
         "ShuXingType": 32,
@@ -56487,7 +56535,8 @@
             8,
             803,
             8031,
-            811
+            811,
+            8134
         ],
         "WuWeiType": 1,
         "ShuXingType": 31,
@@ -85257,6 +85306,80 @@
         "ShuaXin": 120,
         "wuDao": []
     },
+    "8928": {
+        "id": 8928,
+        "ItemIcon": 8928,
+        "maxNum": 9999999,
+        "name": "天阳石",
+        "FaBaoType": "",
+        "Affix": [],
+        "TuJianType": 2,
+        "ShopType": 99,
+        "ItemFlag": [
+            8,
+            806,
+            8063,
+            8166,
+            52
+        ],
+        "WuWeiType": 3,
+        "ShuXingType": 51,
+        "type": 8,
+        "quality": 6,
+        "typePinJie": 0,
+        "StuTime": 0,
+        "seid": [],
+        "vagueType": 0,
+        "price": 513216,
+        "desc": "用于炼器，坚固最强、韧性次之，但灵性为零。",
+        "desc2": "破界天尊的供能核心，可用于炼器",
+        "CanSale": 0,
+        "DanDu": 0,
+        "CanUse": 0,
+        "NPCCanUse": 0,
+        "yaoZhi1": 0,
+        "yaoZhi2": 0,
+        "yaoZhi3": 0,
+        "ShuaXin": 0,
+        "wuDao": []
+    },
+    "8929": {
+        "id": 8929,
+        "ItemIcon": 8929,
+        "maxNum": 9999999,
+        "name": "地阴石",
+        "FaBaoType": "",
+        "Affix": [],
+        "TuJianType": 2,
+        "ShopType": 99,
+        "ItemFlag": [
+            8,
+            806,
+            8063,
+            8166,
+            52
+        ],
+        "WuWeiType": 3,
+        "ShuXingType": 52,
+        "type": 8,
+        "quality": 6,
+        "typePinJie": 0,
+        "StuTime": 0,
+        "seid": [],
+        "vagueType": 0,
+        "price": 513216,
+        "desc": "用于炼器，坚固最强、韧性次之，但灵性为零。",
+        "desc2": "破界天尊的供能核心，可用于炼器",
+        "CanSale": 0,
+        "DanDu": 0,
+        "CanUse": 0,
+        "NPCCanUse": 0,
+        "yaoZhi1": 0,
+        "yaoZhi2": 0,
+        "yaoZhi3": 0,
+        "ShuaXin": 0,
+        "wuDao": []
+    },
     "9001": {
         "id": 9001,
         "ItemIcon": 0,
@@ -89084,7 +89207,7 @@
         "ShopType": 21,
         "ItemFlag": [
             10,
-            1006
+            1005
         ],
         "WuWeiType": 0,
         "ShuXingType": 0,
@@ -92334,6 +92457,37 @@
         "price": 1,
         "desc": "任务物品，不可出售",
         "desc2": "从神秘人身上找到的令牌，不知有何作用。",
+        "CanSale": 1,
+        "DanDu": 0,
+        "CanUse": 0,
+        "NPCCanUse": 0,
+        "yaoZhi1": 0,
+        "yaoZhi2": 0,
+        "yaoZhi3": 0,
+        "ShuaXin": 0,
+        "wuDao": []
+    },
+    "10079": {
+        "id": 10079,
+        "ItemIcon": 0,
+        "maxNum": 1,
+        "name": "天阳",
+        "FaBaoType": "",
+        "Affix": [],
+        "TuJianType": 0,
+        "ShopType": 99,
+        "ItemFlag": [],
+        "WuWeiType": 0,
+        "ShuXingType": 0,
+        "type": 7,
+        "quality": 6,
+        "typePinJie": 0,
+        "StuTime": 0,
+        "seid": [],
+        "vagueType": 0,
+        "price": 2,
+        "desc": "古代遗物，可用于在采筠阁兑换海域情报",
+        "desc2": "九霄雷狱阵的阵基，炼制手法已然失传，听闻龙宫常年寻找此物。",
         "CanSale": 1,
         "DanDu": 0,
         "CanUse": 0,
